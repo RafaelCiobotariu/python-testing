@@ -3,6 +3,7 @@ Hello!
 This is a repository for python applications
 
 1. word_counter:
+   
    This program will check if you want to find a specific word in either a predefined list or a list you create yourself. There are two different search options available for finding the word:
    
    - Exact search - This is case-sensitive, meaning the search will look for the word exactly as you type it. For example, if you search for "Banana" (with a capital B), it will only find "Banana" and not "banana".
