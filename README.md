@@ -2,7 +2,7 @@ Hello!
 
 This is a repository for python applications
 
-1. word_counter:
+1. word_counter
    
    This program will check if you want to find a specific word in either a predefined list or a list you create yourself. There are two different search options available for finding the word:
    
